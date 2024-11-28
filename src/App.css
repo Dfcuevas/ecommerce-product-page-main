@@ -1,0 +1,3 @@
+body {
+  @apply sm:max-w-5xl sm:mx-auto;
+}
